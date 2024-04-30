@@ -3,7 +3,7 @@
 ![image](https://github.com/kassiedancer92/Preparing-Time-Series-from-Wide-Form-Data-/assets/133593433/8c8eb07d-9597-4b04-854d-c5194f7a142f)
 
 
-###Quesiton 1:
+### Quesiton 1:
 Which City had the highest Typical Home Value at the end of 2008? Which had the least?
  - NY had the highest home value and Huston had the lowest at the end of 2008
 
